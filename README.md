@@ -60,5 +60,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7B267&center=true&vCenter=true&width=700&height=45&lines=Automation+is+the+Future...;Linux+is+My+Playground.;Cloud+Native+Warrior+%7C+CI%2FCD+Champion+%7C+DevOps+Driven" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7B267&center=true&vCenter=true&width=700&height=45&lines=Automation+is+the+Future...;Linux+is+My+Playground.;Cloud+Native+%7C+CI%2FCD+Champion+%7C+DevOps+Driven" />
 </p>
