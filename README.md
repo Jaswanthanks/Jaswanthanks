@@ -32,7 +32,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,python,mysql,linux,aws,docker,kubernetes,jenkins,grafana,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,mysql,linux,aws,docker,jenkins,git" />
 </p>
 
 ---
